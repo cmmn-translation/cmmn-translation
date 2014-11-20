@@ -26,12 +26,31 @@ CMMN Lifecycle  | German
 --------------- | --------------
 available       | verfügbar
 active          | aktiv
-enabled         | freigegeben / aktiviert
-disabled        | gesperrt /deaktiviert
+enabled         | bereit
+disabled        | gesperrt
 failed          | fehlgeschlagen
-suspended       | eingestellt / aufgeschoben
-completed       | abgeschlossen
+suspended       | eingestellt / pausiert
+completed       | beendet / abgeschlossen
 terminated      | abgebrochen
 
+
+
+CMMN Transitions | German
+---------------- | ---------------
+create	         | erzeugen
+enable	         | vorbereiten
+disable	         | sperren
+re-enable	 | entsperren
+start	         | starten
+manual start	 | manuell starten
+suspend	         | einstellen / pausieren
+resume	         | fortsetzen
+parent suspend	 |
+parent resume	 |
+fault	         | Fehler erzeugen
+re-activate	 | entsperren / reaktivieren
+terminate	 | abbrechen
+exit	         | verlassen
+complete	 | beenden / abschliessen
 
 
