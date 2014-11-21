@@ -5,7 +5,7 @@ Translation of CMMN (Case Management Model and Notation) terms.
 
 CMMN notation        | German
 -------------------- | -------------
-Case                 | Fall 
+Case                 | Vorgang / Fall 
 Task                 | Aufgabe
 Human Task           | 
 Case Task            | 
@@ -25,8 +25,8 @@ Timer Event Listener |
 CMMN Lifecycle  | German
 --------------- | --------------
 available       | verfügbar
-active          | aktiv
-enabled         | bereit
+active          | aktiv (in Ausführung)
+enabled         | bereit (zur Ausführung)
 disabled        | gesperrt
 failed          | fehlgeschlagen
 suspended       | eingestellt / pausiert
