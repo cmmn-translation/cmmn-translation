@@ -7,26 +7,26 @@ CMMN notation        | German
 -------------------- | -------------
 Case                 | Vorgang / Fall 
 Task                 | Aufgabe
-Human Task           | 
-Case Task            | 
-Process Task         | 
+Human Task           | Benutzeraufgabe
+Case Task            | Fallaufgabe
+Process Task         | Prozessaufgabe
 Stage                | Phase
 Milestone            | Meilenstein
-Sentry               | Wache, Wächter
+Sentry               | Wache, WÃ¤chter
 Entry Criterion      | Eintrittsbedingung, Vorbedingung
 Exit Criteron        | Abbruchbedingung
 On part              | Wachereignis
 If part              | Wachbedingung
-Event Listener       | Ereignisempfänger
-User Event Listner   | 
-Timer Event Listener |
+Event Listener       | EreignisempfÃ¤nger
+User Event Listner   | BenutzerereignisempfÃ¤nger
+Timer Event Listener | ZeitereignisempfÃ¤nger
 
 
 CMMN Lifecycle  | German
 --------------- | --------------
-available       | verfügbar
-active          | aktiv (in Ausführung)
-enabled         | bereit (zur Ausführung)
+available       | verfÃ¼gbar
+active          | aktiv (in AusfÃ¼hrung)
+enabled         | bereit (zur AusfÃ¼hrung)
 disabled        | gesperrt
 failed          | fehlgeschlagen
 suspended       | eingestellt / pausiert
@@ -45,8 +45,8 @@ start	         | starten
 manual start	 | manuell starten
 suspend	         | einstellen / pausieren
 resume	         | fortsetzen
-parent suspend	 |
-parent resume	 |
+parent suspend	 | Elternteil suspendieren
+parent resume	 | Elternteil fortsetzen
 fault	         | Fehler erzeugen
 re-activate	 | entsperren / reaktivieren
 terminate	 | abbrechen
