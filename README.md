@@ -51,7 +51,7 @@ start            | starten
 manual start     | manuell starten
 suspend          | pausieren
 resume           | fortsetzen
-parent suspend   | Elternteil suspendieren
+parent suspend   | Elternteil pausieren
 parent resume    | Elternteil fortsetzen
 fault            | Fehler erzeugen
 re-activate      | reaktivieren
