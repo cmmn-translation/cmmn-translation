@@ -8,9 +8,11 @@ Translation of CMMN (Case Management Model and Notation) terms.
 
 ## Allgemeine Begriffe
 
-CMMN notation        | German            
+CMMN notation        | German         
 -------------------- | ----------------- 
 Case                 | Fall
+Case File            | Fallakte
+Case File Item       | Fallaktenelement
 Task                 | Aufgabe
 Human Task           | Benutzeraufgabe
 Case Task            | Fallaufgabe
@@ -18,13 +20,14 @@ Process Task         | Prozessaufgabe
 Stage                | Phase
 Milestone            | Meilenstein
 Sentry               | Wächter
+Planing Table        | Planungstabelle
 Entry Criterion      | Eintrittsbedingung
-Exit Criteron        | Abbruchbedingung  
+Exit Criterion       | Abbruchbedingung  
 On part              | Wachereignis      
 If part              | Wachbedingung     
-Event Listener       | Ereignisempfänger 
-User Event Listner   | Benutzerereignisempfänger
-Timer Event Listener | Zeitereignisempfänger
+Event Listener       | externes Ereignis
+User Event Listner   | externes Benutzerereignis
+Timer Event Listener | externes Zeitereignis
 
 ## Lebenzyklus Zustände
 
