@@ -1,65 +1,48 @@
 CMMN translations
 ================
 
-Translation of CMMN (Case Management Model and Notation) terms.
-
-**Diskussionen bitte im Wiki führen :)**  
-[Diskussionsseite](https://github.com/cmmn-translation/cmmn-translation/wiki/Diskussionen)
+Translation of CMMN (Case Management Model and Notation) terms used in "Praxishandbuch BPMN (Auflage 5)".
 
 ## Allgemeine Begriffe
 
 CMMN notation        | German         
 -------------------- | ----------------- 
 Case                 | Fall
-Case File            | Fallakte
-Case File Item       | Fallaktenelement
+Case File            | Fallmappe
+Case File Item       | Falldokument
 Task                 | Aufgabe
-Human Task           | Benutzeraufgabe
-Case Task            | Fallaufgabe
-Process Task         | Prozessaufgabe
-Stage                | Phase
+Human Task           | Benutzer-Aufgabe
+Case Task            | Fall-Aufgabe
+Process Task         | Prozess-Aufgabe
+Stage                | Abschnitt
 Milestone            | Meilenstein
 Sentry               | Wächter
 Planing Table        | Planungstabelle
 Entry Criterion      | Eintrittsbedingung
-Exit Criterion       | Abbruchbedingung  
-On part              | Wachereignis      
-If part              | Wachbedingung     
-Event Listener       | externes Ereignis
-User Event Listner   | externes Benutzerereignis
-Timer Event Listener | externes Zeitereignis
+Exit Criterion       | Ausstiegsbedingung  
+On part              | Wächterereignis
+If part              | Wächterbedingung   
+Event Listener       | Ereignis
+User Event Listner   | Benutzerereignis
+Timer Event Listener | Zeitereignis
 
-## Lebenzyklus Zustände
+## Lebenzyklus Zustände & Transitionen
 
-CMMN Lifecycle  | German         
---------------- | -------------- 
-available       | verfügbar
-active          | aktiv          
-enabled         | bereit         
-disabled        | gesperrt                
-failed          | fehlgeschlagen
-suspended       | pausiert
-completed       | abgeschlossen
-terminated      | abgebrochen
-
-## Lebenzyklus Transitionen
-
-CMMN Transitions | German
----------------- | ---------------
-create           | erzeugen
-enable           | vorbereiten
-disable          | sperren
-re-enable        | entsperren
-start            | starten
-manual start     | manuell starten
-suspend          | pausieren
-resume           | fortsetzen
-parent suspend   | Elternteil pausieren
-parent resume    | Elternteil fortsetzen
-fault            | Fehler erzeugen
-re-activate      | reaktivieren
-terminate        | abbrechen
-exit             | verlassen
-complete         | abschliessen
-
-
+CMMN Transitions | Deutsch                 | CMMN Lifecycle  | German      
+---------------- | ----------------------- | --------------- | ---------------
+create           | erzeugen                | available       | vorhanden      
+enable           | ermöglichen             | enabled         | möglich   
+disable          | sperren                 | disabled        | gesperrt       
+re-enable        | entsperren              |
+start            | starten                 | active          | aktiv   
+manual start     | manuell starten         | 
+suspend          | pausieren               | suspended       | pausiert
+resume           | fortsetzen              |
+parent suspend   | ? Elternteil pausieren  |
+parent resume    | ? Elternteil fortsetzen |
+fault            | fehlschlagen            | failed          | fehlgeschlagen
+re-activate      | reaktivieren            |
+terminate        | beenden                 | terminated      | beendet
+exit             | verlassen               |
+complete         | erledigen               | completed       | erledigt
+close            | schließen               | closed          | geschlossen
