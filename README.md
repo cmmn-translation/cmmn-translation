@@ -30,21 +30,21 @@ Timer Event Listener | Zeitereignis
 
 See also [translated lifecycle](lifecycle.pdf)
 
-CMMN Transitions | Deutsch                 | CMMN Lifecycle  | German      
----------------- | ----------------------- | --------------- | ---------------
-create           | erzeugen                | available       | vorhanden      
-enable           | ermöglichen             | enabled         | möglich   
-disable          | sperren                 | disabled        | gesperrt       
-re-enable        | entsperren              |
-start            | starten                 | active          | aktiv   
+CMMN Transitions | Deutsch                 |  | CMMN Lifecycle  | German      
+---------------- | ----------------------- |--| --------------- | ---------------
+create           | erzeugen                |  | available       | vorhanden      
+enable           | ermöglichen             |  | enabled         | möglich   
+disable          | sperren                 |  | disabled        | gesperrt       
+re-enable        | entsperren              |  |
+start            | starten                 |  | active          | aktiv   
 manual start     | manuell starten         | 
-suspend          | pausieren               | suspended       | pausiert
+suspend          | pausieren               |  | suspended       | pausiert
 resume           | fortsetzen              |
 parent suspend   | ? Elternteil pausieren  |
 parent resume    | ? Elternteil fortsetzen |
-fault            | fehlschlagen            | failed          | fehlgeschlagen
+fault            | fehlschlagen            |  | failed          | fehlgeschlagen
 re-activate      | reaktivieren            |
-terminate        | beenden                 | terminated      | beendet
+terminate        | beenden                 |  | terminated      | beendet
 exit             | verlassen               |
-complete         | erledigen               | completed       | erledigt
-close            | schließen               | closed          | geschlossen
+complete         | erledigen               |  | completed       | erledigt
+close            | schließen               |  | closed          | geschlossen
