@@ -30,7 +30,7 @@ Timer Event Listener | Zeitereignis
 
 See also [translated lifecycle](lifecycle.pdf)
 
-CMMN Transitions | D                       | CMMN Lifecycle  | DE       
+CMMN Transitions | DE                      | CMMN Lifecycle  | DE       
 ---------------- | ----------------------- | --------------- | ---------------
 create           | erzeugen                | available       | vorhanden      
 enable           | ermöglichen             | enabled         | möglich   
