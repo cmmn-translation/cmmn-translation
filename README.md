@@ -30,21 +30,21 @@ Timer Event Listener | Zeitereignis
 
 See also [translated lifecycle](lifecycle.pdf)
 
-CMMN Transitions | Deutsch                 | x | CMMN Lifecycle  | German      
----------------- | ----------------------- | - | --------------- | ---------------
-create           | erzeugen                |   | available       | vorhanden      
-enable           | ermöglichen             |   | enabled         | möglich   
-disable          | sperren                 |   | disabled        | gesperrt       
-re-enable        | entsperren              |   |
-start            | starten                 |   | active          | aktiv   
-manual start     | manuell starten         |   | 
-suspend          | pausieren               |   | suspended       | pausiert
-resume           | fortsetzen              |   |
-parent suspend   | ? Elternteil pausieren  |   |
-parent resume    | ? Elternteil fortsetzen |   |
-fault            | fehlschlagen            |   | failed          | fehlgeschlagen
-re-activate      | reaktivieren            |   |
-terminate        | beenden                 |   | terminated      | beendet
-exit             | verlassen               |   |
-complete         | erledigen               |   | completed       | erledigt
-close            | schließen               |   | closed          | geschlossen
+CMMN Transitions | Deutsch                 | CMMN Lifecycle  | German      
+---------------- | ----------------------- | --------------- | ---------------
+create           | erzeugen                | available       | vorhanden      
+enable           | ermöglichen             | enabled         | möglich   
+disable          | sperren                 | disabled        | gesperrt       
+re-enable        | entsperren              |
+start            | starten                 | active          | aktiv   
+manual start     | manuell starten         | 
+suspend          | pausieren               | suspended       | pausiert
+resume           | fortsetzen              |
+parent suspend   | ? Elternteil pausieren  |
+parent resume    | ? Elternteil fortsetzen |
+fault            | fehlschlagen            | failed          | fehlgeschlagen
+re-activate      | reaktivieren            |
+terminate        | beenden                 | terminated      | beendet
+exit             | verlassen               |
+complete         | erledigen               | completed       | erledigt
+close            | schließen               | closed          | geschlossen
