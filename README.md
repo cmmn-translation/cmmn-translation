@@ -28,6 +28,8 @@ Timer Event Listener | Zeitereignis
 
 ## Lebenzyklus Zustände & Transitionen
 
+See also [translated lifecycle](lifecycle.pdf)
+
 CMMN Transitions | Deutsch                 | CMMN Lifecycle  | German      
 ---------------- | ----------------------- | --------------- | ---------------
 create           | erzeugen                | available       | vorhanden      
