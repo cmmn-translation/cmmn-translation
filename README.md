@@ -1,11 +1,11 @@
-CMMN translations
+CMMN - German Translation
 ================
 
 Translation of CMMN (Case Management Model and Notation) terms used in "Praxishandbuch BPMN (Auflage 5)".
 
 ## Allgemeine Begriffe
 
-CMMN notation        | German         
+CMMN notation        |          
 -------------------- | ----------------- 
 Case                 | Fall
 Case File            | Fallmappe
@@ -30,7 +30,7 @@ Timer Event Listener | Zeitereignis
 
 See also [translated lifecycle](lifecycle.pdf)
 
-CMMN Transitions | Deutsch                 | CMMN Lifecycle  | German      
+CMMN Transitions |                         | CMMN Lifecycle  |       
 ---------------- | ----------------------- | --------------- | ---------------
 create           | erzeugen                | available       | vorhanden      
 enable           | ermöglichen             | enabled         | möglich   
