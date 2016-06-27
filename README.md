@@ -25,6 +25,7 @@ If part              | Wächterbedingung
 Event Listener       | Ereignis
 User Event Listner   | Benutzerereignis
 Timer Event Listener | Zeitereignis
+Discretionary Task   | 
 
 ## Lebenzyklus Zustände & Transitionen
 
