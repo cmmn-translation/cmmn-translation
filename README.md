@@ -5,7 +5,7 @@ Translation of CMMN (Case Management Model and Notation) terms used in "Praxisha
 
 ## Allgemeine Begriffe
 
-CMMN notation        |          
+CMMN notation        | DE          
 -------------------- | ----------------- 
 Case                 | Fall
 Case File            | Fallmappe
@@ -30,7 +30,7 @@ Timer Event Listener | Zeitereignis
 
 See also [translated lifecycle](lifecycle.pdf)
 
-CMMN Transitions |                         | CMMN Lifecycle  |       
+CMMN Transitions | D                       | CMMN Lifecycle  | DE       
 ---------------- | ----------------------- | --------------- | ---------------
 create           | erzeugen                | available       | vorhanden      
 enable           | ermöglichen             | enabled         | möglich   
