@@ -17,7 +17,6 @@ Process Task         | Prozess-Aufgabe
 Stage                | Abschnitt
 Milestone            | Meilenstein
 Sentry               | Wächter
-Planing Table        | Planungstabelle
 Entry Criterion      | Eintrittsbedingung
 Exit Criterion       | Ausstiegsbedingung  
 On part              | Wächterereignis
@@ -25,7 +24,8 @@ If part              | Wächterbedingung
 Event Listener       | Ereignis
 User Event Listner   | Benutzerereignis
 Timer Event Listener | Zeitereignis
-Discretionary Task   | 
+Planing Table        | Planungstabelle
+Discretionary Task   | Planbare Aufgabe
 
 ## Lebenzyklus Zustände & Transitionen
 
