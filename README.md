@@ -48,4 +48,5 @@ re-activate      | reaktivieren            |
 terminate        | beenden                 | terminated      | beendet
 exit             | verlassen               |
 complete         | erledigen               | completed       | erledigt
+occur            | ?                       | completed       | erledigt
 close            | schließen               | closed          | geschlossen
