@@ -34,7 +34,7 @@ See also [translated lifecycle](lifecycle.pdf)
 CMMN Transitions | DE                      | CMMN Lifecycle  | DE       
 ---------------- | ----------------------- | --------------- | ---------------
 create           | erzeugen                | available       | vorhanden      
-enable           | ermöglichen             | enabled         | möglich   
+enable           | ermöglichen             | enabled         | startbar   
 disable          | sperren                 | disabled        | gesperrt       
 re-enable        | entsperren              |
 start            | starten                 | active          | aktiv   
