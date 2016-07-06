@@ -29,7 +29,7 @@ Discretionary Task   | Planbare Aufgabe
 
 ## Lebenzyklus Zustände & Transitionen
 
-See also [translated lifecycle](lifecycle.pdf)
+See also [translated lifecycle for a task](lifecycleTask.pdf)
 
 CMMN Transitions | DE                      | CMMN Lifecycle  | DE       
 ---------------- | ----------------------- | --------------- | ---------------
