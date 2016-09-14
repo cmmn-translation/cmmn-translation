@@ -35,8 +35,8 @@ CMMN Transitions | DE                      | CMMN Lifecycle  | DE
 ---------------- | ----------------------- | --------------- | ---------------
 create           | erzeugen                | available       | vorhanden      
 enable           | ermöglichen             | enabled         | startbar   
-disable          | sperren                 | disabled        | gesperrt       
-re-enable        | entsperren              |
+disable          | deaktivieren            | disabled        | deaktiviert       
+re-enable        | wieder ermöglichen      |
 start            | starten                 | active          | aktiv   
 manual start     | manuell starten         | 
 suspend          | pausieren               | suspended       | pausiert
